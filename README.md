@@ -17,7 +17,7 @@
  ### About Me
 <hr>
 :wave: I am [Tanner Ensign](https://www.tensigndevelopment.com/) and I am a Computer Science student at Concordia University-Irvine. 
-
+<br>
 - See my [full about page here](https://www.tensigndevelopment.com/)
 - 📫 How to reach me: My full page above has my contact info
 - 😄 Pronouns: he/him
