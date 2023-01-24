@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Tanner Ensign and I like to code." src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Tanner Ensign and I like to code." src="images/text.gif" />
   <br />
   <br />
 
