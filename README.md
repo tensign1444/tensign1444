@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="images/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/tensign1444/tensign1444/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Tanner Ensign and I like to code." src="images/text.gif" />
