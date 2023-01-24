@@ -41,7 +41,6 @@
 <!-- Social -->
  ### Socials
 <hr>
-<hr>
 [Linkedin](https://www.linkedin.com/in/tanner-ensign-346832194/)
 
 <!-- End -->
