@@ -48,6 +48,7 @@
 
 <!-- End -->
 <!-- Footer -->
+<br><br>
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/tensign1444/count.svg)
