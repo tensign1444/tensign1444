@@ -14,8 +14,8 @@
 
 <!-- About Me -->
 
-#About Me
-
+ ### About Me
+<hr>
 :wave: I am [Tanner Ensign](https://www.tensigndevelopment.com/) and I am a Computer Science student at Concordia University-Irvine. 
 
 - See my [full about page here](https://www.tensigndevelopment.com/)
@@ -27,7 +27,7 @@
 
 <!-- Languages -->
 
-#Languages
+ ### Languages
 <hr>
 
 - C#
@@ -42,13 +42,13 @@
 <!-- End -->
 
 <!-- Social -->
-#Socials
-
+ ### Socials
+<hr>
 [Linkedin](https://www.linkedin.com/in/tanner-ensign-346832194/)
 
 <!-- End -->
 <!-- Footer -->
-
+<hr>
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/tensign1444/count.svg)
