@@ -9,6 +9,44 @@
 
 </div>
 
+<!-- End -->
+
+
+<!-- About Me -->
+
+#About Me
+
+:wave: I am [Tanner Ensign](https://www.tensigndevelopment.com/) and I am a Computer Science student at Concordia University-Irvine. 
+
+- See my [full about page here](https://www.tensigndevelopment.com/)
+- 📫 How to reach me: My full page above has my contact info
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've played hockey since I was three years old
+
+<!-- End -->
+
+<!-- Languages -->
+
+#Languages
+<hr>
+
+- C#
+- Java
+- Python
+- C/C++
+- Javascript
+- HTML
+- CSS
+- Scratch
+
+<!-- End -->
+
+<!-- Social -->
+#Socials
+
+[Linkedin](https://www.linkedin.com/in/tanner-ensign-346832194/)
+
+<!-- End -->
 <!-- Footer -->
 
 <div align="center">
