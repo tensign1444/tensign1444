@@ -43,7 +43,7 @@
 <!-- Social -->
  ### Socials
 <hr>
-[Linkedin](https://www.linkedin.com/in/tanner-ensign-346832194/)
+![Linkedin](https://www.linkedin.com/in/tanner-ensign-346832194/)
 
 <!-- End -->
 <!-- Footer -->
