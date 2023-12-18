@@ -19,7 +19,7 @@
 
 :wave:I am [Tanner Ensign](https://www.tensigndevelopment.com/) and I am a Software Engineer with a B.S in Computer Science from Concordia University-Irvine.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've played hockey since I was three years old
+- ⚡ Fun fact: I've played hockey since I was three years old.
 <!-- End -->
 
 <!-- Languages -->
@@ -35,6 +35,8 @@
 - HTML
 - CSS
 - Scratch
+- SQLite
+- MIPS Assembly
 
 <!-- End -->
 
