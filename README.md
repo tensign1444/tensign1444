@@ -35,7 +35,7 @@
 - HTML
 - CSS
 - Scratch
-- SQLite
+- SQL
 - MIPS Assembly
 
 <!-- End -->
